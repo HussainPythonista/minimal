@@ -14,6 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ### Fraud Detection 
 This Project is dummy project,this project that i was create because to learn Git
+
     
 ![Branching](https://blogs.mastechinfotrellis.com/hubfs/AI%20for%20Fraud%20Detection-Use%20Case.jpg)
  
