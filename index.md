@@ -13,8 +13,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Machine Learning
 
 ### Fraud Detection 
-    This Project is dummy project,this project that i was create because to learn Git
- ![Branching](https://blogs.mastechinfotrellis.com/hubfs/AI%20for%20Fraud%20Detection-Use%20Case.jpg)
+This Project is dummy project,this project that i was create because to learn Git
+    
+![Branching](https://blogs.mastechinfotrellis.com/hubfs/AI%20for%20Fraud%20Detection-Use%20Case.jpg)
  
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
